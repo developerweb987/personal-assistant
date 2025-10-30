@@ -1,4 +1,4 @@
-# 🤖 AI Personal Assistant — Schedule & Email Drafts (Gemini 2.5 Flash)
+# 🤖 AI Personal Assistant — Schedule & Email Drafts
 
 A smart **AI-powered personal assistant** built with **Python**, **Streamlit**, and **Gemini 2.5 Flash API** that helps you:
 - ✉️ Draft professional emails  
